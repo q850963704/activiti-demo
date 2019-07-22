@@ -1,0 +1,1091 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="baefaea1-37da-4e71-a2bc-ac64d5574eba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__batik_batik_script_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_18_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_mail_javax_mail_1_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_dbcp_commons_dbcp_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_pool_commons_pool_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__de_odysseus_juel_juel_api_2_2_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__de_odysseus_juel_juel_impl_2_2_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__de_odysseus_juel_juel_spi_2_2_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_core_2_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_schema_2_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spi_2_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_models_1_5_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_10_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__math_geom2d_javaGeom_0_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_47.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_activiti_activiti_bpmn_converter_6_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_activiti_activiti_bpmn_model_6_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_activiti_activiti_dmn_api_6_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_activiti_activiti_dmn_model_6_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_activiti_activiti_engine_6_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_activiti_activiti_form_api_6_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_activiti_activiti_form_model_6_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_activiti_activiti_image_generator_6_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_activiti_activiti_json_converter_6_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_activiti_activiti_process_validation_6_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_activiti_activiti_spring_6_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_activiti_activiti_spring_boot_starter_basic_6_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_avalon_framework_avalon_framework_api_4_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_avalon_framework_avalon_framework_impl_4_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_email_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlgraphics_batik_anim_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlgraphics_batik_awt_util_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlgraphics_batik_bridge_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlgraphics_batik_codec_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlgraphics_batik_css_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlgraphics_batik_dom_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlgraphics_batik_ext_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlgraphics_batik_gvt_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlgraphics_batik_js_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlgraphics_batik_parser_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlgraphics_batik_script_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlgraphics_batik_svg_dom_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlgraphics_batik_svggen_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlgraphics_batik_transcoder_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlgraphics_batik_util_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlgraphics_batik_xml_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlgraphics_fop_0_94.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlgraphics_xmlgraphics_commons_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_17_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mapstruct_mapstruct_1_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_5_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_xalan_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_ext_1_3_04.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/activiti-demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/syt/activitidemo/config/SwaggerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/syt/activitidemo/controller/ModelController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/syt/activitidemo/editor/main/StencilsetRestResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/syt/activitidemo/editor/model/ModelEditorJsonRestResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/syt/activitidemo/editor/model/ModelSaveRestResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/diagram-viewer/images/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/diagram-viewer/images/breadcrumbs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/diagram-viewer/images/checker-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/diagram-viewer/images/deployer/blue/message_catch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/diagram-viewer/images/deployer/business_rule.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/diagram-viewer/images/deployer/error_catch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/diagram-viewer/images/deployer/error_throw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/diagram-viewer/images/deployer/manual.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/diagram-viewer/images/deployer/message_catch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/diagram-viewer/images/deployer/message_throw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/diagram-viewer/images/deployer/receive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/diagram-viewer/images/deployer/script.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/diagram-viewer/images/deployer/send.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/diagram-viewer/images/deployer/service.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/diagram-viewer/images/deployer/signal_catch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/diagram-viewer/images/deployer/signal_throw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/diagram-viewer/images/deployer/timer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/diagram-viewer/images/deployer/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/diagram-viewer/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/diagram-viewer/js/ActivitiRest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/diagram-viewer/js/ActivityImpl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/diagram-viewer/js/Color.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/diagram-viewer/js/LineBreakMeasurer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/diagram-viewer/js/Polyline.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/diagram-viewer/js/ProcessDiagramCanvas.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/diagram-viewer/js/ProcessDiagramGenerator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/diagram-viewer/js/jquery/jquery.asyncqueue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/diagram-viewer/js/jquery/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/diagram-viewer/js/jquery/jquery.progressbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/diagram-viewer/js/jstools.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/diagram-viewer/js/raphael.2.1.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/diagram-viewer/js/raphael.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/diagram-viewer/js/raphael_uncompressed.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/diagram-viewer/js/textlayout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/diagram-viewer/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/app-cfg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties-assignment-controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties-condition-expression-controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties-custom-controllers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties-default-controllers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties-event-listeners-controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties-execution-listeners-controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties-fields-controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties-form-properties-controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties-in-parameters-controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties-message-definitions-controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties-message-scope-controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties-multiinstance-controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties-out-parameters-controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties-sequenceflow-order-controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties-signal-definitions-controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties-signal-scope-controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties-task-listeners-controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties/assignment-display-template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties/assignment-popup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties/assignment-write-template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties/boolean-property-template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties/condition-expression-display-template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties/condition-expression-popup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties/condition-expression-write-template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties/default-value-display-template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties/event-listeners-display-template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties/event-listeners-popup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties/event-listeners-write-template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties/execution-listeners-display-template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties/execution-listeners-popup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties/execution-listeners-write-template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties/feedback-popup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties/fields-display-template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties/fields-popup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties/fields-write-template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties/form-properties-display-template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties/form-properties-popup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties/form-properties-write-template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties/in-parameters-display-template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties/in-parameters-popup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties/in-parameters-write-template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties/message-definitions-display-template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties/message-definitions-popup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties/message-definitions-write-template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties/message-property-write-template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties/multiinstance-property-write-template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties/out-parameters-display-template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties/out-parameters-popup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties/out-parameters-write-template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties/sequenceflow-order-display-template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties/sequenceflow-order-popup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties/sequenceflow-order-write-template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties/signal-definitions-display-template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties/signal-definitions-popup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties/signal-definitions-write-template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties/signal-property-write-template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties/string-property-write-mode-template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties/subprocess-reference-display-template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties/subprocess-reference-popup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties/subprocess-reference-write-template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties/task-listeners-display-template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties/task-listeners-popup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties/task-listeners-write-template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties/text-popup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties/text-property-write-template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/toolbar-custom-actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/toolbar-default-actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/toolbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/url-config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/css/style-common.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/css/style-editor.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/editor-config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/editor-controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/editor-utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/editor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/editor/css/editor.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/editor/i18n/translation_de.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/editor/i18n/translation_en_us.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/editor/i18n/translation_signavio_de.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/editor/i18n/translation_signavio_en_us.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/editor/oryx.debug.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/editor/oryx.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/eventbus.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/fonts/activiti-admin-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/fonts/activiti-admin-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/fonts/activiti-admin-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/fonts/activiti-admin-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/header-controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/i18n/en.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/images/bpmn-error.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/images/bpmn-warning.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/images/datadefinition.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/images/delete.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/images/logo-2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/images/nw-handle-dark.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/images/se-handle-dark.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/images/shapemenu_highlight.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/images/wrench.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/angular-cookies_1.2.13/angular-cookies.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/angular-cookies_1.2.13/angular-cookies.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/angular-dragdrop.min-1.0.3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/angular-dragdrop_1.0.7/angular-dragdrop.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/angular-mocks_1.2.13/angular-mocks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/angular-resource_1.2.13/angular-resource.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/angular-resource_1.2.13/angular-resource.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/angular-resource_1.2.13/angular-resource.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/angular-route_1.2.13/angular-route.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/angular-route_1.2.13/angular-route.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/angular-route_1.2.13/angular-route.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/angular-sanitize_1.2.13/angular-sanitize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/angular-sanitize_1.2.13/angular-sanitize.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/angular-sanitize_1.2.13/angular-sanitize.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/angular-scroll_0.5.7/angular-scroll.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/angular-strap_2.0.5/angular-strap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/angular-strap_2.0.5/angular-strap.tpl.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/angular-translate-loader-static-files/.bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/angular-translate-loader-static-files/angular-translate-loader-static-files.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/angular-translate-loader-static-files/angular-translate-loader-static-files.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/angular-translate-storage-cookie/.bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/angular-translate-storage-cookie/angular-translate-storage-cookie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/angular-translate-storage-cookie/angular-translate-storage-cookie.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/angular-translate_2.4.2/angular-translate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/angular-translate_2.4.2/angular-translate.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/angular_1.2.13/angular-animate.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/angular_1.2.13/angular.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/bootstrap-daterangepicker_1.3.7/daterangepicker-bs3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/bootstrap-daterangepicker_1.3.7/daterangepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/bootstrap_3.1.1/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/bootstrap_3.1.1/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/bootstrap_3.1.1/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/bootstrap_3.1.1/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/bootstrap_3.1.1/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/bootstrap_3.1.1/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/bootstrap_3.1.1/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/bootstrap_3.1.1/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/bootstrap_3.1.1/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/bootstrap_3.1.1/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/bootstrap_3.1.1/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/bootstrap_3.1.1/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/es5-shim-15.3.4.5/.bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/es5-shim-15.3.4.5/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/es5-shim-15.3.4.5/CHANGES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/es5-shim-15.3.4.5/CONTRIBUTORS.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/es5-shim-15.3.4.5/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/es5-shim-15.3.4.5/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/es5-shim-15.3.4.5/es5-sham.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/es5-shim-15.3.4.5/es5-sham.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/es5-shim-15.3.4.5/es5-sham.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/es5-shim-15.3.4.5/es5-shim.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/es5-shim-15.3.4.5/es5-shim.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/es5-shim-15.3.4.5/es5-shim.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/es5-shim-15.3.4.5/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/es5-shim-15.3.4.5/tests/helpers/h-kill.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/es5-shim-15.3.4.5/tests/helpers/h-matchers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/es5-shim-15.3.4.5/tests/helpers/h.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/es5-shim-15.3.4.5/tests/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/es5-shim-15.3.4.5/tests/index.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/es5-shim-15.3.4.5/tests/lib/jasmine-html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/es5-shim-15.3.4.5/tests/lib/jasmine.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/es5-shim-15.3.4.5/tests/lib/jasmine.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/es5-shim-15.3.4.5/tests/lib/jasmine_favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/es5-shim-15.3.4.5/tests/lib/json2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/es5-shim-15.3.4.5/tests/spec/s-array.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/es5-shim-15.3.4.5/tests/spec/s-date.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/es5-shim-15.3.4.5/tests/spec/s-function.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/es5-shim-15.3.4.5/tests/spec/s-number.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/es5-shim-15.3.4.5/tests/spec/s-object.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/es5-shim-15.3.4.5/tests/spec/s-string.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/jquery-ui-1.10.3.custom.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/jquery.autogrow-textarea.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/jquery_1.11.0/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/jquery_1.11.0/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/jquery_1.11.0/jquery.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/json3_3.2.6/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/json3_3.2.6/lib/json3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/json3_3.2.6/lib/json3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/momentjs_2.5.1/momentjs.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/mousetrap-1.4.5.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/ng-grid-2.0.7-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/ng-grid-2.0.7.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/path_parser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/prototype-1.5.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/libs/ui-utils.min-0.0.4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/partials/root-stencil-item-template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/partials/stencil-item-template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/plugins.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/popups/icon-template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/popups/save-model.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/popups/select-shape.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/popups/unsaved-changes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/select-shape-controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/stencil-controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/stencilsets/bpmn2.0/icons/activity/event.subprocess.collapsed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/stencilsets/bpmn2.0/icons/activity/event.subprocess.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/stencilsets/bpmn2.0/icons/activity/expanded.subprocess.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/stencilsets/bpmn2.0/icons/activity/list/type.business.rule.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/stencilsets/bpmn2.0/icons/activity/list/type.camel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/stencilsets/bpmn2.0/icons/activity/list/type.manual.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/stencilsets/bpmn2.0/icons/activity/list/type.mule.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/stencilsets/bpmn2.0/icons/activity/list/type.receive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/stencilsets/bpmn2.0/icons/activity/list/type.script.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/stencilsets/bpmn2.0/icons/activity/list/type.send.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/stencilsets/bpmn2.0/icons/activity/list/type.service.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/stencilsets/bpmn2.0/icons/activity/list/type.shell.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/stencilsets/bpmn2.0/icons/activity/list/type.user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/stencilsets/bpmn2.0/icons/activity/subprocess.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/stencilsets/bpmn2.0/icons/activity/task.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/stencilsets/bpmn2.0/icons/artifact/text.annotation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/stencilsets/bpmn2.0/icons/catching/cancel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/stencilsets/bpmn2.0/icons/catching/compensation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/stencilsets/bpmn2.0/icons/catching/error.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/stencilsets/bpmn2.0/icons/catching/message.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/stencilsets/bpmn2.0/icons/catching/signal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/stencilsets/bpmn2.0/icons/catching/timer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/stencilsets/bpmn2.0/icons/connector/association.undirected.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/stencilsets/bpmn2.0/icons/connector/association.unidirectional.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/stencilsets/bpmn2.0/icons/connector/messageflow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/stencilsets/bpmn2.0/icons/connector/sequenceflow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/stencilsets/bpmn2.0/icons/dataobject/data.store.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/stencilsets/bpmn2.0/icons/diagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/stencilsets/bpmn2.0/icons/endevent/cancel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/stencilsets/bpmn2.0/icons/endevent/error.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/stencilsets/bpmn2.0/icons/endevent/none.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/stencilsets/bpmn2.0/icons/endevent/terminate.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/stencilsets/bpmn2.0/icons/gateway/eventbased.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/stencilsets/bpmn2.0/icons/gateway/exclusive.databased.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/stencilsets/bpmn2.0/icons/gateway/inclusive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/stencilsets/bpmn2.0/icons/gateway/parallel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/stencilsets/bpmn2.0/icons/startevent/error.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/stencilsets/bpmn2.0/icons/startevent/message.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/stencilsets/bpmn2.0/icons/startevent/none.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/stencilsets/bpmn2.0/icons/startevent/signal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/stencilsets/bpmn2.0/icons/startevent/timer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/stencilsets/bpmn2.0/icons/swimlane/lane.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/stencilsets/bpmn2.0/icons/swimlane/pool.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/stencilsets/bpmn2.0/icons/throwing/none.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/stencilsets/bpmn2.0/icons/throwing/signal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/editor-app/toolbar-controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/modeler.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/stencilset.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/processes/leave.bpmn" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/processes/leave.bpmn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/syt/activitidemo/ActivitiDemoApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/syt/activitidemo/ActivitiDemoApplicationTests.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/static/editor-app/app-cfg.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="23" column="29" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="29" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/syt/activitidemo/editor/main/StencilsetRestResource.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/syt/activitidemo/editor/model/ModelEditorJsonRestResource.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="500">
+              <caret line="50" column="6" selection-start-line="50" selection-start-column="6" selection-end-line="50" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/syt/activitidemo/controller/ModelController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1180">
+              <caret line="79" column="10" selection-start-line="79" selection-start-column="10" selection-end-line="79" selection-end-column="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/syt/activitidemo/config/SwaggerConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties/assignment-popup.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="740">
+              <caret line="37" column="12" selection-start-line="37" selection-start-column="12" selection-end-line="37" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/processes/leave.bpmn">
+          <provider selected="true" editor-type-id="bpmn-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/syt/activitidemo/ActivitiDemoApplicationTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1400">
+              <caret line="85" selection-start-line="85" selection-end-line="85" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="501">
+              <caret line="65" column="34" selection-start-line="65" selection-start-column="34" selection-end-line="65" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/syt/activitidemo/editor/model/ModelSaveRestResource.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="760">
+              <caret line="78" column="16" selection-start-line="78" selection-start-column="16" selection-end-line="78" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/static/editor-app/popups/save-model.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="640">
+              <caret line="32" column="77" selection-start-line="32" selection-start-column="77" selection-end-line="32" selection-end-column="77" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find />
+      <find>fr</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/src/main/resources/static/editor-app/app-cfg.js" />
+        <option value="$PROJECT_DIR$/src/main/java/com/syt/activitidemo/editor/main/StencilsetRestResource.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/syt/activitidemo/editor/model/ModelEditorJsonRestResource.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/syt/activitidemo/config/SwaggerConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/syt/activitidemo/controller/ModelController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/stencilset.json" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/processes/leave.bpmn" />
+        <option value="$PROJECT_DIR$/src/test/java/com/syt/activitidemo/ActivitiDemoApplicationTests.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties/assignment-popup.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/syt/activitidemo/editor/model/ModelSaveRestResource.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="G:\java\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="activiti-demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-3" />
+    <option name="width" value="1936" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="activiti-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="activiti-demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="activiti-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="activiti-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="activiti-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="activiti-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="activiti-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="activiti-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="activiti-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="activiti-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="activitidemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="activiti-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="activiti-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="activitidemo" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="activiti-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="activiti-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="activitidemo" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="activiti-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="activiti-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="activitidemo" type="462c0819:PsiDirectoryNode" />
+              <item name="editor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="activiti-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="activiti-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="activitidemo" type="462c0819:PsiDirectoryNode" />
+              <item name="editor" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="activiti-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="activiti-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="activitidemo" type="462c0819:PsiDirectoryNode" />
+              <item name="editor" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="activiti-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="activiti-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="activiti-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="activiti-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="processes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="activiti-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="activiti-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="activiti-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="activiti-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="activiti-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="activiti-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="activiti-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="activiti-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="activitidemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/processes" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.syt.activitidemo.config" />
+      <recent name="com.syt.activitidemo.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\java\workspace\activiti-demo\src\main\resources\processes" />
+      <recent name="G:\java\workspace\activiti-demo\src\main\resources" />
+      <recent name="G:\java\workspace\activiti-demo\src\main\java\com\syt\activitidemo" />
+      <recent name="G:\java\workspace\activiti-demo\src\main\resources\static" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ActivitiDemoApplication">
+    <configuration name="ActivitiDemoApplicationTests.addUserAndGroup" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="activiti-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.syt.activitidemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.syt.activitidemo" />
+      <option name="MAIN_CLASS_NAME" value="com.syt.activitidemo.ActivitiDemoApplicationTests" />
+      <option name="METHOD_NAME" value="addUserAndGroup" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ActivitiDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="activiti-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.syt.activitidemo.ActivitiDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ActivitiDemoApplicationTests.addUserAndGroup" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="baefaea1-37da-4e71-a2bc-ac64d5574eba" name="Default Changelist" comment="" />
+      <created>1563346949843</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563346949843</updated>
+      <workItem from="1563346952743" duration="3828000" />
+      <workItem from="1563352165830" duration="7650000" />
+      <workItem from="1563411326069" duration="2071000" />
+      <workItem from="1563496355835" duration="597000" />
+      <workItem from="1563756028227" duration="961000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ActivitiDemoApplicationTests_addUserAndGroup - 2019.07.17 at 15h 04m 53s.xml">
+      <configuration name="ActivitiDemoApplicationTests.addUserAndGroup" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ActivitiDemoApplicationTests_addUserAndGroup - 2019.07.17 at 15h 13m 56s.xml">
+      <configuration name="ActivitiDemoApplicationTests.addUserAndGroup" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="15107000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25751072" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info id="BPMN Editor" order="8" weight="0.3299356" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3303671" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3288889" />
+      <window_info anchor="bottom" id="Problems" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.3299356" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="BPMNPalette" order="6" weight="0.3299356" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/modeler.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/syt/activitidemo/ActivitiDemoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/activiti/activiti-engine/6.0.0/activiti-engine-6.0.0.jar!/org/activiti/engine/ProcessEngine.class" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/stencilset.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26780">
+          <caret line="1339" column="1" selection-start-line="1339" selection-start-column="1" selection-end-line="1339" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/processes/123.bpmn" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/editor-app/app-cfg.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="23" column="29" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="29" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/syt/activitidemo/editor/main/StencilsetRestResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/syt/activitidemo/editor/model/ModelEditorJsonRestResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="50" column="6" selection-start-line="50" selection-start-column="6" selection-end-line="50" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/syt/activitidemo/controller/ModelController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1180">
+          <caret line="79" column="10" selection-start-line="79" selection-start-column="10" selection-end-line="79" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/syt/activitidemo/config/SwaggerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/editor-app/configuration/properties/assignment-popup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="37" column="12" selection-start-line="37" selection-start-column="12" selection-end-line="37" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/processes/leave.bpmn">
+      <provider selected="true" editor-type-id="bpmn-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/syt/activitidemo/ActivitiDemoApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1400">
+          <caret line="85" selection-start-line="85" selection-end-line="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/editor-app/popups/save-model.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="32" column="77" selection-start-line="32" selection-start-column="77" selection-end-line="32" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="65" column="34" selection-start-line="65" selection-start-column="34" selection-end-line="65" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/syt/activitidemo/editor/model/ModelSaveRestResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="78" column="16" selection-start-line="78" selection-start-column="16" selection-end-line="78" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
